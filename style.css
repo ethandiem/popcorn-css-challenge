@@ -4,10 +4,25 @@ button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
 
-body {
-  background-color: #D4A76A;
+
+header {
+  color: #553100;
+  background-color: #FFDBAA;
+  height: 120px;
+  font-size: 35px;
+  }
+
+button {
+  width: 140px;
+  height: 70px;
+  background-color: #553100;
+  color: rgb(255, 255, 255);
+  float: right;
+  margin: 10px;
+  font-size: 25px;
+  font
 }
 
-.header {
-  color: #311111;
+body {
+  background-color: #D4A76A;
 }
